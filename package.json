@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/maxwelljames91/desafio-academia-node-ficr#readme",
   "dependencies": {
+    "ejs": "^3.0.1",
     "express": "^4.17.1"
   }
 }
