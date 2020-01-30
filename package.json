@@ -1,0 +1,22 @@
+{
+  "name": "desafio-academia-node-ficr",
+  "version": "1.0.0",
+  "description": "Curriculo Expresso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwelljames91/desafio-academia-node-ficr.git"
+  },
+  "author": "Maxwell James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwelljames91/desafio-academia-node-ficr/issues"
+  },
+  "homepage": "https://github.com/maxwelljames91/desafio-academia-node-ficr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
