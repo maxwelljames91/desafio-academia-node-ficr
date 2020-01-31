@@ -4,7 +4,8 @@
   "description": "Neste desafio você deverá desenvolver uma api que retorna um currículo dinâmico. Para isso, você deverá comunicar-se com dois serviços para capturar informações. A api do Facebook e a api do Github.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "fb": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
